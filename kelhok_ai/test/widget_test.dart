@@ -9,8 +9,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:kelhok_ai/features/content_generation/presentation/screens/content_generation_screen.dart';
-
 void main() {
   testWidgets('ContentGenerationScreen widget test', (WidgetTester tester) async {
     // Build our app widget directly without dependency injection for testing
