@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.kelhok.ai" "\0"
-            VALUE "FileDescription", "kelhok_ai" "\0"
+            VALUE "CompanyName", "com.tecnoagro.karigorai" "\0"
+            VALUE "FileDescription", "test_karigorai" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "kelhok_ai" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.kelhok.ai. All rights reserved." "\0"
-            VALUE "OriginalFilename", "kelhok_ai.exe" "\0"
-            VALUE "ProductName", "kelhok_ai" "\0"
+            VALUE "InternalName", "test_karigorai" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.tecnoagro.karigorai. All rights reserved." "\0"
+            VALUE "OriginalFilename", "test_karigorai.exe" "\0"
+            VALUE "ProductName", "test_karigorai" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

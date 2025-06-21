@@ -1,6 +1,6 @@
 {
-    "name": "kelhok_ai",
-    "short_name": "kelhok_ai",
+    "name": "test_karigorai",
+    "short_name": "test_karigorai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
